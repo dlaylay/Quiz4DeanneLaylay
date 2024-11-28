@@ -4,7 +4,7 @@ trigger:
 pool:
   name: 'default'  
   demands: 
-  -agent.name -equals Quiz4 Deanne
+  -agent.name -equals 'Quiz4 Deanne'
 
 steps:
 - task: UseDotNet@2
