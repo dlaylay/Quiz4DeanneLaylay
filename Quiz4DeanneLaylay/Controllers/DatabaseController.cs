@@ -9,7 +9,7 @@ namespace Quiz4DeanneLaylay.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Database access has already been done on Nov 28, 2024, by Deanne");
+            return Ok("Database access has already been done on Nov 28, 2024, by Deanne Laylay");
         }
     }
 }
